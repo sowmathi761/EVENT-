@@ -1,58 +1,70 @@
-```markdown
-# 🎉 EVENT Website (My First Project)
+Ah, got it Sowmathi — thanks for clarifying! 😊
 
-This is my **first project** – a very basic event‑management style webpage built using **HTML**.  
-It showcases an **Art Gallery Exhibition** with details about upcoming events, venue, and contact information.
+Since this is **your first project** and it **only contains the HTML file (and the image)**, we can make a **simple, clean README** that is perfect for beginners and professional enough for GitHub.
 
-🌐 **Live Demo:** [View Website](https://sowmathi761.github.io/EVENT-/)  
-📂 **Repository:** [GitHub Repo](https://github.com/sowmathi761/EVENT-.git)
+Here’s a **minimal README.md** for your repo:
 
 ---
 
-## 📖 Project Overview
-- Displays **Upcoming Events** with a clear heading.
-- Highlights an **Art Gallery Exhibition**:
-  - Free entry
-  - Free food
-  - Exciting gifts 🎁
-- Venue: **KPR College of Arts Science and Research**
-- Contact numbers for more details.
-- Includes images of the art gallery.
+# Art Gallery Website
+
+## Overview
+
+This is my **first HTML project** — a simple Art Gallery website.
+It displays an art exhibition with a heading, description, and an image of the gallery.
 
 ---
 
-## 🛠️ Technologies Used
-- **HTML5** – for structure
-- **Inline CSS** – for basic styling
-- **GitHub Pages** – for hosting
+## Features
+
+* Single-page website using **HTML**
+* Displays an art gallery image
+* Includes event description and contact details
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sowmathi761/EVENT-.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd EVENT-
-   ```
-3. Open `index.html` in your browser.
+## Technologies Used
+
+* **HTML5**
 
 ---
 
-## 📌 Features
-- Beginner‑friendly project
-- Clean and simple design
-- Easy to customize
-- Hosted on GitHub Pages
+## Live Demo
 
+You can view the website here:
+[Art Gallery Website](https://sowmathi761.github.io/EVENT-/)
 
+---
 
-## 🙌 Acknowledgements
-This is my **first project** and a starting step in web development.  
-Thanks to everyone who supported and encouraged me to build this.
+## Project Structure
+
+```
+EVENT-/
+├── index.html
+├── Art gallery 1.png
+└── README.md
 ```
 
+* `index.html` → Main webpage
+* `Art gallery 1.png` → Displayed image
+* `README.md` → This file
 
+---
 
+## How to View Locally
+
+1. Download or clone the repository:
+
+```
+git clone https://github.com/sowmathi761/EVENT-.git
+```
+
+2. Open `index.html` in any web browser
+
+---
+
+This **keeps it simple** and professional for your **first project**.
+
+If you want, I can also make it **look slightly more attractive for GitHub**, like adding headings, bold text, and better formatting so it stands out in your profile.
+
+Do you want me to do that?
