@@ -1,10 +1,3 @@
-Ah, got it Sowmathi — thanks for clarifying! 😊
-
-Since this is **your first project** and it **only contains the HTML file (and the image)**, we can make a **simple, clean README** that is perfect for beginners and professional enough for GitHub.
-
-Here’s a **minimal README.md** for your repo:
-
----
 
 # Art Gallery Website
 
@@ -63,8 +56,3 @@ git clone https://github.com/sowmathi761/EVENT-.git
 
 ---
 
-This **keeps it simple** and professional for your **first project**.
-
-If you want, I can also make it **look slightly more attractive for GitHub**, like adding headings, bold text, and better formatting so it stands out in your profile.
-
-Do you want me to do that?
