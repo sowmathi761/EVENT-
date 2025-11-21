@@ -1,81 +1,58 @@
-Perfect Sowmathi! I’ve created a **ready-to-use professional README.md** tailored for your GitHub repository and GitHub Pages link. You can directly copy this into a `README.md` file in your `EVENT-` repo.
+```markdown
+# 🎉 EVENT Website (My First Project)
+
+This is my **first project** – a very basic event‑management style webpage built using **HTML**.  
+It showcases an **Art Gallery Exhibition** with details about upcoming events, venue, and contact information.
+
+🌐 **Live Demo:** [View Website](https://sowmathi761.github.io/EVENT-/)  
+📂 **Repository:** [GitHub Repo](https://github.com/sowmathi761/EVENT-.git)
 
 ---
 
-# Art Gallery Website
-
-## Overview
-
-Welcome to the **Art Gallery Website**! This simple HTML project showcases a virtual exhibition with stunning paintings and expressive sketches. The website provides visitors with a smooth and visually appealing experience, highlighting the creativity of the artworks.
-
----
-
-## Features
-
-* Display of artworks from the Art Gallery exhibition
-* Free entry for all visitors
-* Information about refreshments and venue
-* Contact details for further inquiries
-* Clean and visually appealing layout
+## 📖 Project Overview
+- Displays **Upcoming Events** with a clear heading.
+- Highlights an **Art Gallery Exhibition**:
+  - Free entry
+  - Free food
+  - Exciting gifts 🎁
+- Venue: **KPR College of Arts Science and Research**
+- Contact numbers for more details.
+- Includes images of the art gallery.
 
 ---
 
-## Technologies Used
-
-* **HTML5**
-* **CSS3**
-* **GitHub Pages** for deployment
-
----
-
-## Live Site
-
-You can view the live website here:
-[Art Gallery Website](https://sowmathi761.github.io/EVENT-/)
+## 🛠️ Technologies Used
+- **HTML5** – for structure
+- **Inline CSS** – for basic styling
+- **GitHub Pages** – for hosting
 
 ---
 
-## Project Structure
-
-```
-EVENT-/
-├── index.html
-├── Art gallery 1.png
-└── README.md
-```
-
-* `index.html` → Main webpage
-* `Art gallery 1.png` → Image displayed on the page
-* `README.md` → Project documentation
-
----
-
-## Screenshot
-
-![Art Gallery Screenshot](Art%20gallery%201.png)
-
----
-
-## Contact
-
-* **Venue:** KPR College of Arts Science and Research
-* **Phone:** 7708474763 | 8870231721
-
----
-
-## How to Run Locally
-
+## 🚀 How to Run Locally
 1. Clone the repository:
-
-```
-git clone https://github.com/sowmathi761/EVENT-.git
-```
-
-2. Open `index.html` in any browser to view the website.
+   ```bash
+   git clone https://github.com/sowmathi761/EVENT-.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd EVENT-
+   ```
+3. Open `index.html` in your browser.
 
 ---
 
-If you want, I can **also create a slightly shorter, polished version for GitHub Pages** so it looks very professional in your repo without crowding the page.
+## 📌 Features
+- Beginner‑friendly project
+- Clean and simple design
+- Easy to customize
+- Hosted on GitHub Pages
 
-Do you want me to do that?
+
+
+## 🙌 Acknowledgements
+This is my **first project** and a starting step in web development.  
+Thanks to everyone who supported and encouraged me to build this.
+```
+
+
 
